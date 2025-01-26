@@ -1,5 +1,6 @@
+![Purple Blue Simple Professional Marketing Professional LinkedIn Article Cover Image](https://github.com/user-attachments/assets/7bec73a6-de25-42ce-9632-0cd95619fa5a)
 
-![Blue and Gray Illustration Personal LinkedIn Banner](https://github.com/jvdjugal3886/jvdjugal3886/assets/89655571/d833e5e6-700c-4ca4-9085-e93eb139eb97)
+
 
 <h1 align="center">Hi 👋, I'm Dave Jugal</h1>
 <h3 align="center">A passionate frontend developer from India. Seeking opportunities in dynamic learning environments. Final-year engineering student passionate about computer science. Demonstrated aptitude in coding, problem-solving, and software development. Seeking opportunities to apply my skills, grow professionally, and contribute to innovative projects. A motivated student with great communication and critical thinking abilities. Successful at approaching and solving various problems and practical solutions. Team-Orinted and ready to learn</h3>
