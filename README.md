@@ -29,7 +29,6 @@
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1FO_hm0aczjFgQm-YueNecWmM8PHD64H5/view?usp=sharing](https://drive.google.com/file/d/17B05I4Hl9OGopZPjd6jlTHRQAit-rWiq/view?usp=drive_link)]([https://drive.google.com/file/d/1FO_hm0aczjFgQm-YueNecWmM8PHD64H5/view?usp=sharing](https://drive.google.com/file/d/17B05I4Hl9OGopZPjd6jlTHRQAit-rWiq/view?usp=drive_link))
 
-- ⚡ Fun fact **One fun fact about me is that I have a passion for learning new languages. I find joy in exploring different cultures through language and enjoy the process of learning new words and phrases. It allows me to connect with people from diverse backgrounds and understand the nuances of communication in various parts of the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
