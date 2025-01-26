@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dave Jugal</h1>
-<h3 align="center">A passionate frontend developer from India. Seeking opportunities in dynamic learning environments. Final-year engineering student passionate about computer science. Demonstrated aptitude in coding, problem-solving, and software development. Seeking opportunities to apply my skills, grow professionally, and contribute to innovative projects. A motivated student with great communication and critical thinking abilities. Successful at approaching and solving various problems and practical solutions. Team-Orinted and ready to learn</h3>
+<h3 align="center">A passionate FullStack developer from India. Seeking opportunities in dynamic learning environments. Final-year engineering student passionate about computer science. Demonstrated aptitude in coding, problem-solving, and software development. Seeking opportunities to apply my skills, grow professionally, and contribute to innovative projects. A motivated student with great communication and critical thinking abilities. Successful at approaching and solving various problems and practical solutions. Team-Orinted and ready to learn</h3>
 
 
 
