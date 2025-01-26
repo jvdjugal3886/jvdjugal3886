@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [EcoSense](#)
 
-- 🌱 I’m currently learning **Advanced Java, DSA and ML/DL**
+- 🌱 I’m currently learning **Advanced Java, DSA and MLOps, DevOps, Kubernetes, Terraform**
 
 - 👯 I’m looking to collaborate on **some Machine Learning Projects.**
 
