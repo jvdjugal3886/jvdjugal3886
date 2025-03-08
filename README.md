@@ -16,8 +16,7 @@ I started my journey designing sleek user interfaces, thinking that was the whol
 
 I live for challenging problems—whether it’s optimizing performance, scaling applications, or figuring out why the build broke at 2 AM. Every project is an excuse to push the limits of what’s possible (and occasionally, to test my patience).
 
-💡 Motto: If it’s not broken, you’re not pushing hard enough.
-🔗 Portfolio: jvdjugal3886.github.io/MyPortfolio
+
 
 Let’s build something innovative… or at least something that doesn’t crash on launch. 🚀.</h3>
 
