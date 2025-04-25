@@ -30,11 +30,10 @@ Let’s build something innovative… or at least something that doesn’t crash
 
 <p align="left"> <a href="https://twitter.com/jvd_jugal3886" target="blank"><img src="https://img.shields.io/twitter/follow/jvd_jugal3886?logo=twitter&style=for-the-badge" alt="jvd_jugal3886" /></a> </p>
 
--
+
 
 - 📫 How to reach me **jugalvdave19@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1FO_hm0aczjFgQm-YueNecWmM8PHD64H5/view?usp=sharing](https://drive.google.com/file/d/17B05I4Hl9OGopZPjd6jlTHRQAit-rWiq/view?usp=drive_link)]([https://drive.google.com/file/d/1FO_hm0aczjFgQm-YueNecWmM8PHD64H5/view?usp=sharing](https://drive.google.com/file/d/17B05I4Hl9OGopZPjd6jlTHRQAit-rWiq/view?usp=drive_link))
 
 
 <h3 align="left">Connect with me:</h3>
