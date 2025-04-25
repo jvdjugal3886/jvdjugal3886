@@ -30,17 +30,7 @@ Let’s build something innovative… or at least something that doesn’t crash
 
 <p align="left"> <a href="https://twitter.com/jvd_jugal3886" target="blank"><img src="https://img.shields.io/twitter/follow/jvd_jugal3886?logo=twitter&style=for-the-badge" alt="jvd_jugal3886" /></a> </p>
 
-- 🔭 I’m currently working on [EcoSense](#)
-
-- 🌱 I’m currently learning **Advanced Java, DSA and MLOps, DevOps, Kubernetes, Terraform**
-
-- 👯 I’m looking to collaborate on **some Machine Learning Projects.**
-
-- 🤝 I’m looking for help with **exploring the world of open-source contributions**
-
-- 👨‍💻 My portfolio link is [https://jvdjugal3886.github.io/MyPortfolio/#](https://jvdjugal3886.github.io/MyPortfolio/#)
-
-- 💬 Ask me about **Front End Development, Sales and Marketing, SEO**
+-
 
 - 📫 How to reach me **jugalvdave19@gmail.com**
 
